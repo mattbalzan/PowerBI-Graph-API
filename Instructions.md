@@ -19,6 +19,8 @@
 4. On right-pane window, rename `Query1` to `Run-GraphAPI`.
 
 ![image](https://github.com/user-attachments/assets/a41c14b9-863c-45ff-aa6c-74cf86154c00)
+![image](https://github.com/user-attachments/assets/133a943d-d6d9-4aef-ac51-94365a1084f1)
+
 
 
 > Create the Parameters
@@ -29,5 +31,9 @@
 5. Repeat steps 2-4 for the AppID & SecretID.
 
 ![image](https://github.com/user-attachments/assets/634b48b6-d647-457b-b81d-f0a09fb0691e)
+
+6. On the top menu, click the `Refresh Preview` button and the Run-GraphAPI function will run.
+
+![image](https://github.com/user-attachments/assets/376917b4-c07e-475d-a7a2-78e21cdf27f6)
 
 
